@@ -15,11 +15,11 @@
 
 ## Git의 기본적인 설정
 
-Git을 사용할 폴더를 생성한뒤 Git Bash Here 을 클릭하여 Git Bash 클라이언트를 키거나 Git Bash 클라이언트에서 
+Git을 사용할 폴더를 생성한뒤 **Git Bash Here** 을 클릭하여 Git Bash 클라이언트를 키거나 
 
-CLI 명령어를 사용하여 해당 폴더로 이동한다
+Git Bash 클라이언트에서 CLI 명령어를 사용하여 해당 폴더로 이동한다
 
-git init를 입력하면 .git 폴더가 생성되며 git main 저장소가 생성된다.
+**git init**를 입력하면 .git 폴더가 생성되며 git main 저장소가 생성된다.
 
 **git config --global user.name "ID"**
 
