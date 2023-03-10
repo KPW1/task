@@ -71,7 +71,7 @@ github 계정과 동일하게 설정해준다
 
 **git push -u origin main** = main 브런치에 push 하는 경우
 
-**git push origin 브런치이름** = 다른 브런치에 push 하는 경우
+**git push origin 브런치이름** = 다른 브런치에 push 하는 경우 
 
 ### pull(다운로드) ###
 
