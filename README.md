@@ -39,6 +39,10 @@ github 계정과 동일하게 설정해준다
 
 **git commit -am "설명"** = 한번이상 커밋한 이후에 사용가능 하며 add + commit을 한꺼번에 처리해줌
 
+**git status** = 현재 상태 확인
+
+### log ###
+
 **git log** = 모든 커밋 기록 확인
 
 **--oneline** = 한줄씩 요약된 커밋 기록 확인
@@ -46,8 +50,6 @@ github 계정과 동일하게 설정해준다
 **--graph** = 그래프가 추가된 커밋 기록 확인
 
 **--all** = 그동안 생성된 브랜치까지 확인하여 기록 확인
-
-**git status** = 현재 상태 확인
 
 ### Branch ###
 
@@ -66,16 +68,19 @@ github 계정과 동일하게 설정해준다
 ### push(업로드) ###
 
 **git push -u origin main* = main 브런치에 push 하는 경우
+
 **git push origin 브런치이름** = 다른 브런치에 push 하는 경우
 
 ### pull(다운로드) ###
 
 **git pull (origin main)** = main 브런치에서 pull 하는 경우
+
 **git pull origin 브런치이름** = 다른 브런치에서 pull 하는 경우
 
 ### github에서 내 로컬 저장소로 복사하기 ###
 
 **git clone https://~** = 내 로컬 저장소에 폴더가 없는경우 폴더를 생성후 복사
+
 **git clone https://~ .** = 내 로컬 조장소에 이미 폴더가 있는 경우 그 폴더에 복사
 
 **git remote rm origin** = 연결된 온라인 저장소 정보 삭제
