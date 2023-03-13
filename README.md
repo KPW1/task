@@ -104,4 +104,7 @@ github 계정과 동일하게 설정해준다
 # 수정1
 
 
-[abc] |abc|
+First Header  | Second Header
+------------- |  -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
